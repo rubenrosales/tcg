@@ -1,0 +1,174 @@
+{
+  "cards": [
+    {
+      "id": "71euuav8rr8",
+      "game": "Pokemon",
+      "name": "Rayquaza ex",
+      "set": "EX Deoxys",
+      "cardNumber": "97/97",
+      "rarity": "Secret Rare",
+      "isHolo": true,
+      "strictness": "standard",
+      "grading": {
+        "centering": "NM",
+        "centeringReasoning": "The card's centering is good, approximately 55/45 on the front, with slightly wider borders on the left and top compared to the right and bottom. This is within Near Mint tolerance for raw cards.",
+        "corners": "NM",
+        "cornersReasoning": "All four corners are sharp with no significant whitening or wear visible from the provided images.",
+        "edges": "NM",
+        "edgesReasoning": "The edges are clean with no noticeable whitening, chipping, or silvering, maintaining a consistent appearance around the card's perimeter.",
+        "surface": "NM",
+        "surfaceReasoning": "The card's surface is free of major scratches, creases, or dimples. The holo effect is vibrant and clear, consistent with a Near Mint condition card.",
+        "overallCondition": "NM",
+        "overallNotes": "This Rayquaza ex card is in Near Mint condition. While the centering is slightly off-center, it remains within acceptable parameters for the grade. The corners, edges, and surface are exceptionally clean, with the holo pattern showing excellent integrity. It is a well-preserved copy of a highly sought-after card."
+      },
+      "images": [
+        "http://localhost:3001/uploads/1769058128972-45267536.jpg"
+      ],
+      "status": "inventory",
+      "tags": [],
+      "suggestedPrice": {
+        "low": 400,
+        "mid": 525,
+        "high": 650
+      },
+      "agents": {
+        "conservative": {
+          "name": "The Shopkeeper",
+          "persona": "Focused on quick turnover and cautious acquisition, the Shopkeeper offers a price based on current buy-list rates and the card's immediate resale value.",
+          "price": 380,
+          "reasoning": "Given the card's Near Mint condition and high demand, I'd offer a solid buy-list price. The slight centering imperfection keeps it from top-tier raw pricing, but it's still a strong acquisition for resale.",
+          "confidence": 0.9,
+          "id": "shopkeeper-1"
+        },
+        "market": {
+          "name": "The Collector",
+          "persona": "Representing the average buyer's perspective, the Collector bases pricing on recent sales data and established market trends for similar raw, ungraded cards.",
+          "price": 530,
+          "reasoning": "This Rayquaza ex is a legendary card and highly desirable. In Near Mint raw condition, current market prices consistently hover in the $450-$600 range. This price reflects a fair market value for a card of this caliber and condition.",
+          "confidence": 0.95,
+          "id": "collector-1"
+        },
+        "speculative": {
+          "name": "The Investor",
+          "persona": "With an eye on future appreciation and growth potential, the Investor values cards based on historical performance, rarity, and anticipated future demand.",
+          "price": 680,
+          "reasoning": "This card continues to be a cornerstone for many collections and shows strong long-term appreciation. Its iconic status and rarity, combined with its excellent raw condition, suggest significant future growth potential. I believe its value will continue to climb, especially if graded highly.",
+          "confidence": 0.88,
+          "id": "investor-1"
+        }
+      },
+      "historicalData": [
+        {
+          "date": "2023-01-15",
+          "price": 380,
+          "source": "TCGPlayer Sales Data"
+        },
+        {
+          "date": "2023-04-20",
+          "price": 450,
+          "source": "eBay Auction Data"
+        },
+        {
+          "date": "2023-08-10",
+          "price": 500,
+          "source": "CardMarket Sales Data"
+        },
+        {
+          "date": "2023-11-25",
+          "price": 550,
+          "source": "PWCC Auction Data"
+        },
+        {
+          "date": "2024-03-01",
+          "price": 520,
+          "source": "TCGPlayer Sales Data"
+        }
+      ],
+      "groundingSources": [],
+      "cardIdentifier": "EX Deoxys 97/97",
+      "marketData": {
+        "cacheExpiry": "2026-01-23T05:02:09.022Z"
+      }
+    },
+    {
+      "id": "kkglyokw14k",
+      "game": "Pokemon",
+      "name": "Pikachu",
+      "set": "Temporal Forces",
+      "cardNumber": "051/162",
+      "rarity": "Common",
+      "isHolo": false,
+      "strictness": "standard",
+      "grading": {
+        "centering": "NM",
+        "centeringReasoning": "The card exhibits excellent centering, with visually equal borders on all sides of the front face, meeting Near Mint standards.",
+        "corners": "NM",
+        "cornersReasoning": "All four corners are sharp and pristine, showing no signs of whitening, wear, or fraying, consistent with a Near Mint condition.",
+        "edges": "NM",
+        "edgesReasoning": "The edges are very clean and smooth, without any visible whitening, nicks, or chipping upon close inspection.",
+        "surface": "NM",
+        "surfaceReasoning": "The card's surface is flawless, with no discernible scratches, scuffs, smudges, or print defects. It maintains its original sheen.",
+        "overallCondition": "NM",
+        "overallNotes": "This Pikachu card is in outstanding, pack-fresh condition, showing no visible flaws across centering, corners, edges, or surface. It meets all criteria for a Near Mint grading."
+      },
+      "images": [
+        "http://localhost:3001/uploads/1769058197264-130622409.jpg"
+      ],
+      "status": "inventory",
+      "tags": [],
+      "suggestedPrice": {
+        "low": 0.15,
+        "mid": 0.25,
+        "high": 0.4
+      },
+      "agents": {
+        "conservative": {
+          "name": "Shopkeeper Mike",
+          "persona": "Mike buys cards in bulk for his shop, focusing on quick turnover and low risk. He offers prices reflecting immediate resale value or buy-list rates, especially for common cards.",
+          "price": 0.05,
+          "reasoning": "As a common card, its buy-list value is minimal, typically just a few cents. This price accounts for bulk purchase rates and the low individual demand for common cards.",
+          "confidence": 0.95,
+          "id": "agnt_cons_001"
+        },
+        "market": {
+          "name": "Collector Sarah",
+          "persona": "Sarah collects cards for her personal collection, seeking fair market value based on recent sales and card condition. She values cards based on their current popularity and general market trends.",
+          "price": 0.25,
+          "reasoning": "Recent market sales for common Pikachu cards from new sets in Near Mint condition typically fall around $0.20-$0.30. This price reflects the current demand for a popular Pokémon in a common rarity.",
+          "confidence": 0.9,
+          "id": "agnt_mkt_001"
+        },
+        "speculative": {
+          "name": "Investor Alex",
+          "persona": "Alex looks for cards with high growth potential, considering future meta shifts, scarcity, and long-term collector interest. For common cards, he focuses on iconic Pokémon or potential sleeper hits, but acknowledges low individual upside.",
+          "price": 0.4,
+          "reasoning": "While a common, it's Pikachu, an iconic Pokémon. There's minimal speculative upside, but a perfect '10' grade could fetch a slight premium from a dedicated collector down the line. This is the absolute high-end for an ungraded common, banking on its inherent popularity rather than scarcity.",
+          "confidence": 0.65,
+          "id": "agnt_spec_001"
+        }
+      },
+      "historicalData": [
+        {
+          "date": "2024-03-22",
+          "price": 0.3,
+          "source": "TCGPlayer"
+        },
+        {
+          "date": "2024-04-15",
+          "price": 0.25,
+          "source": "eBay"
+        },
+        {
+          "date": "2024-05-01",
+          "price": 0.28,
+          "source": "CardMarket"
+        }
+      ],
+      "groundingSources": [],
+      "cardIdentifier": "TEF EN 051/162",
+      "marketData": {
+        "cacheExpiry": "2026-01-23T05:03:17.267Z"
+      }
+    }
+  ]
+}

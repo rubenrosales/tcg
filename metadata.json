@@ -1,0 +1,7 @@
+{
+  "name": "PokeSell Pro - AI TCG Automator",
+  "description": "An all-in-one platform for trading card sellers to automate inventory management, AI-powered grading, price discovery via Google Search, and cross-platform listing generation.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
